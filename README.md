@@ -2,7 +2,7 @@
 
 Trabajos realizados en el módulo 4 del máster en <strong> Data Science/AI </strong>. El presente repositorio incluye trabajos relacionados a cada una de las etapas de <strong>"Data Wrangling"</strong>, como se indica en la imagen. 
 
-<img src="https://assets-global.website-files.com/620d42e86cb8ec4d0839e59d/6230e8f9f25db46f85fab6fd_61cb684896c7ae222f621175_Data-Wrangling-Diagram.jpeg" alt="Etapas de Data Wranglig" width=75% align="center">
+<img src="https://assets-global.website-files.com/620d42e86cb8ec4d0839e59d/6230e8f9f25db46f85fab6fd_61cb684896c7ae222f621175_Data-Wrangling-Diagram.jpeg" alt="Etapas de Data Wranglig" align="center">
 
 _____
 <h2> Descripción</h2>
