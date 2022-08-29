@@ -27,4 +27,4 @@ Comandos básicos de a consola de la SHELL.
 <li><h4> Web Scrapping</h4></li>
 Empleo de Beutiful Soup para realizar web Scrapping en la página de IMBd.
 </ol>
-____
+
