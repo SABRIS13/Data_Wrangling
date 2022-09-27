@@ -29,4 +29,4 @@ Empleo de Beutiful Soup para realizar web Scrapping en la página de IMBd.
 </ol>
 
 __________
-                                                                                   Máster Data Science/AI (DEV.F)
+                                                                        Máster Data Science/AI (DEV.F)
