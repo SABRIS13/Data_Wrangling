@@ -28,3 +28,5 @@ Comandos básicos de a consola de la SHELL.
 Empleo de Beutiful Soup para realizar web Scrapping en la página de IMBd.
 </ol>
 
+__________
+                                                                                   Máster Data Science/AI (DEV.F)
